@@ -43,6 +43,10 @@ For any doubts feel free to contact me.
 
 ### App Demo
 
-![Alt text](https://github.com/PiyushSharma99/MiniGame/blob/master/media/AppTest.webm)
+
+
+https://user-images.githubusercontent.com/48489390/236395518-c437f60d-4624-4536-9fbc-292496c6ecc3.mp4
+
+
 
 
